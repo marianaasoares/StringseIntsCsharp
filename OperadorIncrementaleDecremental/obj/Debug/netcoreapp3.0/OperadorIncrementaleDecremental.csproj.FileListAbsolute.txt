@@ -1,0 +1,10 @@
+C:\Users\mariana.dsantos\source\repos\ConectandoString\OperadorIncrementaleDecremental\obj\Debug\netcoreapp3.0\OperadorIncrementaleDecremental.AssemblyInfoInputs.cache
+C:\Users\mariana.dsantos\source\repos\ConectandoString\OperadorIncrementaleDecremental\obj\Debug\netcoreapp3.0\OperadorIncrementaleDecremental.AssemblyInfo.cs
+C:\Users\mariana.dsantos\source\repos\ConectandoString\OperadorIncrementaleDecremental\bin\Debug\netcoreapp3.0\OperadorIncrementaleDecremental.exe
+C:\Users\mariana.dsantos\source\repos\ConectandoString\OperadorIncrementaleDecremental\bin\Debug\netcoreapp3.0\OperadorIncrementaleDecremental.deps.json
+C:\Users\mariana.dsantos\source\repos\ConectandoString\OperadorIncrementaleDecremental\bin\Debug\netcoreapp3.0\OperadorIncrementaleDecremental.runtimeconfig.json
+C:\Users\mariana.dsantos\source\repos\ConectandoString\OperadorIncrementaleDecremental\bin\Debug\netcoreapp3.0\OperadorIncrementaleDecremental.runtimeconfig.dev.json
+C:\Users\mariana.dsantos\source\repos\ConectandoString\OperadorIncrementaleDecremental\bin\Debug\netcoreapp3.0\OperadorIncrementaleDecremental.dll
+C:\Users\mariana.dsantos\source\repos\ConectandoString\OperadorIncrementaleDecremental\bin\Debug\netcoreapp3.0\OperadorIncrementaleDecremental.pdb
+C:\Users\mariana.dsantos\source\repos\ConectandoString\OperadorIncrementaleDecremental\obj\Debug\netcoreapp3.0\OperadorIncrementaleDecremental.dll
+C:\Users\mariana.dsantos\source\repos\ConectandoString\OperadorIncrementaleDecremental\obj\Debug\netcoreapp3.0\OperadorIncrementaleDecremental.pdb

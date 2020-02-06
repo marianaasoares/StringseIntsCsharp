@@ -1,0 +1,11 @@
+C:\Users\mariana.dsantos\source\repos\ConectandoString\FormataçãoInteiros\bin\Debug\netcoreapp3.0\FormataçãoInteiros.exe
+C:\Users\mariana.dsantos\source\repos\ConectandoString\FormataçãoInteiros\bin\Debug\netcoreapp3.0\FormataçãoInteiros.deps.json
+C:\Users\mariana.dsantos\source\repos\ConectandoString\FormataçãoInteiros\bin\Debug\netcoreapp3.0\FormataçãoInteiros.runtimeconfig.json
+C:\Users\mariana.dsantos\source\repos\ConectandoString\FormataçãoInteiros\bin\Debug\netcoreapp3.0\FormataçãoInteiros.runtimeconfig.dev.json
+C:\Users\mariana.dsantos\source\repos\ConectandoString\FormataçãoInteiros\bin\Debug\netcoreapp3.0\FormataçãoInteiros.dll
+C:\Users\mariana.dsantos\source\repos\ConectandoString\FormataçãoInteiros\bin\Debug\netcoreapp3.0\FormataçãoInteiros.pdb
+C:\Users\mariana.dsantos\source\repos\ConectandoString\FormataçãoInteiros\obj\Debug\netcoreapp3.0\FormataçãoInteiros.csprojAssemblyReference.cache
+C:\Users\mariana.dsantos\source\repos\ConectandoString\FormataçãoInteiros\obj\Debug\netcoreapp3.0\FormataçãoInteiros.AssemblyInfoInputs.cache
+C:\Users\mariana.dsantos\source\repos\ConectandoString\FormataçãoInteiros\obj\Debug\netcoreapp3.0\FormataçãoInteiros.AssemblyInfo.cs
+C:\Users\mariana.dsantos\source\repos\ConectandoString\FormataçãoInteiros\obj\Debug\netcoreapp3.0\FormataçãoInteiros.dll
+C:\Users\mariana.dsantos\source\repos\ConectandoString\FormataçãoInteiros\obj\Debug\netcoreapp3.0\FormataçãoInteiros.pdb

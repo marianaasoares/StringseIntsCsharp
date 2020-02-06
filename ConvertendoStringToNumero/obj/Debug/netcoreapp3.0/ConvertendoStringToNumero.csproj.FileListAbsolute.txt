@@ -1,0 +1,11 @@
+C:\Users\mariana.dsantos\source\repos\ConectandoString\ConvertendoStringToNumero\bin\Debug\netcoreapp3.0\ConvertendoStringToNumero.exe
+C:\Users\mariana.dsantos\source\repos\ConectandoString\ConvertendoStringToNumero\bin\Debug\netcoreapp3.0\ConvertendoStringToNumero.deps.json
+C:\Users\mariana.dsantos\source\repos\ConectandoString\ConvertendoStringToNumero\bin\Debug\netcoreapp3.0\ConvertendoStringToNumero.runtimeconfig.json
+C:\Users\mariana.dsantos\source\repos\ConectandoString\ConvertendoStringToNumero\bin\Debug\netcoreapp3.0\ConvertendoStringToNumero.runtimeconfig.dev.json
+C:\Users\mariana.dsantos\source\repos\ConectandoString\ConvertendoStringToNumero\bin\Debug\netcoreapp3.0\ConvertendoStringToNumero.dll
+C:\Users\mariana.dsantos\source\repos\ConectandoString\ConvertendoStringToNumero\bin\Debug\netcoreapp3.0\ConvertendoStringToNumero.pdb
+C:\Users\mariana.dsantos\source\repos\ConectandoString\ConvertendoStringToNumero\obj\Debug\netcoreapp3.0\ConvertendoStringToNumero.csprojAssemblyReference.cache
+C:\Users\mariana.dsantos\source\repos\ConectandoString\ConvertendoStringToNumero\obj\Debug\netcoreapp3.0\ConvertendoStringToNumero.AssemblyInfoInputs.cache
+C:\Users\mariana.dsantos\source\repos\ConectandoString\ConvertendoStringToNumero\obj\Debug\netcoreapp3.0\ConvertendoStringToNumero.AssemblyInfo.cs
+C:\Users\mariana.dsantos\source\repos\ConectandoString\ConvertendoStringToNumero\obj\Debug\netcoreapp3.0\ConvertendoStringToNumero.dll
+C:\Users\mariana.dsantos\source\repos\ConectandoString\ConvertendoStringToNumero\obj\Debug\netcoreapp3.0\ConvertendoStringToNumero.pdb
